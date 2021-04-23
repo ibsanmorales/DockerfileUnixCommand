@@ -1,5 +1,5 @@
 # DockerfileUnixCommand
-Proyecto para poner aprueba conocimiento sobre Docker y Commandos linux enfocado como herramientas para Ciencia de datos
+Proyecto para poner aprueba conocimiento sobre Docker y Commandos Unix enfocado como herramientas para Ciencia de datos
 
 ## Motivacion
 La ciencia de datos se caracteriza por la integración de distintas áreas tales 
@@ -18,6 +18,8 @@ y compartir nuestro entorno de desarrollo de una manera relativamente sencilla.
 Este mini proyecto contiene un dockerfile para genera una imagen que descarga informacion de [Covid19 Mexico](http://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip)
 y este mismo archivo le da un tratamiento a esta informacion como comandos Unix generando dos documentos nuevos, un archivo con limpieza en datos y un archivo con estadisticas sobre la edad de los pasientes 
 con covid 19 que fueron intubados.
+
+Nota: [Diccionario de Datos](/DiccionarioDatos), se tiene datos de apoyo para interpretacion de los datos.
 
 ## Tecnologia / Software
 * Unix Commands
