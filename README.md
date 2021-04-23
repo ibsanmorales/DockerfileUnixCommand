@@ -40,4 +40,4 @@ con covid 19 que fueron intubados.
 - [Docket doc.](https://docs.docker.com/)
 - [Comandos Unix](http://swcarpentry.github.io/shell-novice/)
 
-[Documento de Contribuidores](CONTRIBUTING.md) 
+[Documento de Contribuidores](CONTRIBUTORS.md) 
